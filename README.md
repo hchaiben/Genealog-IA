@@ -1,6 +1,6 @@
 # Genealog-IA
-# A first-level heading
-TÍTULO DO PROJETO
+
+#TÍTULO DO PROJETO
 		A história de sua família contada pela Inteligência Artificial
 
 	Nesse dia em que comemoramos o dia das mães, você sabe dizer quem era a mãe da mãe de sua mãe ?
