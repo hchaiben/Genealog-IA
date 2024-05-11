@@ -25,6 +25,3 @@ O resultado do prompt gera um arquivo formato txt contendo até 5 parágrafos ge
 DESENVOLVIMENTOS FUTUROS
 Versões futuras desse projeto deverá ler e manipular diretamente o arquivo no formato Gedcom (.ged) da árvore genealógica.
 Também para geração das respostas do modelo Gemini, testes deverão ser feitos utilizando os conceitos de embeddings.
-
-
-![image](https://github.com/hchaiben/Genealog-IA/assets/169555723/d817ac76-81a8-4944-9a1e-baa320810183)
