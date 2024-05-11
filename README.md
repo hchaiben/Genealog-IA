@@ -19,8 +19,7 @@ ESTRUTURA DE DADOS DA PLANILHA
 ID | NOME_COMPLETO	| SEXO	| DATA_DE_NASCIMENTO | LUGAR_DE_NASCIMENTO |  DATA_DE_FALECIMENTO | LUGAR_DE_FALECIMENTO | CEMITERIO | NOME_DO_CONJUGE |  DATA_DO_CASAMENTO | LOCAL_DO_CASAMENTO | NOME_DO_PAI | NOME_DA_MAE | ANOTACOES
 
 EXECUÇÃO 
-Uma entrada do usuário escolhe a pessoa ancestral da árvore genealógica. A partir dessa entrada, os dados são carregados e vão compor o prompt que vai inferir a engenharia do Google Gemini.
-O resultado do prompt gera um arquivo formato txt contendo até 5 parágrafos gerados pelo Google Gemini com uma breve história da pessoa da árvore genealógica. O nome do arquivo gerado é o nome da pessoa.
+Uma entrada do usuário escolhe a pessoa ancestral da árvore genealógica. A partir dessa entrada, os dados são carregados e vão compor o prompt que vai inferir a engenharia do Google Gemini. O resultado do prompt gera um arquivo formato txt contendo até 5 parágrafos gerados pelo Google Gemini com uma breve história da pessoa da árvore genealógica. O nome do arquivo gerado é o nome da pessoa.
 
 DESENVOLVIMENTOS FUTUROS
 Versões futuras desse projeto deverá ler e manipular diretamente o arquivo no formato Gedcom (.ged) da árvore genealógica.
