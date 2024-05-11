@@ -27,7 +27,10 @@ ID | NOME_COMPLETO	| SEXO	| DATA_DE_NASCIMENTO | LUGAR_DE_NASCIMENTO |  DATA_DE_
 ### EXECUÇÃO
 
 Uma entrada do usuário escolhe a pessoa ancestral da árvore genealógica. A partir dessa entrada, os dados são carregados e vão compor o prompt que vai inferir a engenharia do Google Gemini.
-O resultado do prompt gera um arquivo formato txt contendo até 5 parágrafos gerados pelo Google Gemini com uma breve história da pessoa da árvore genealógica. O nome do arquivo gerado é o nome da pessoa.
+
+### RESULTADOS
+
+O resultado do prompt gera um arquivo formato txt contendo até 5 parágrafos gerados pelo Google Gemini com uma breve história da pessoa da árvore genealógica. O nome do arquivo gerado é o nome da pessoa. Os resultados podem ser observados nos 4 arquivos com nome das pessoas, carregados neste ambiente do GitHub.
 
 ### DESENVOLVIMENTOS FUTUROS
 
