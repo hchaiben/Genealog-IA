@@ -5,9 +5,9 @@
 **título do projeto**
 # A história de sua família contada pela Inteligência Artificial
 
-			Nesse dia em que comemoramos o dia das mães, você sabe dizer quem era a mãe da mãe de sua mãe ?
-			Como era o nome de solteira dela?
-			A genealogia pode te ajudar a resgatar essa história das mulheres de sua família!!
+		Nesse dia em que comemoramos o dia das mães, você sabe dizer quem era a mãe da mãe de sua mãe ?
+		Como era o nome de solteira dela?
+		A genealogia pode te ajudar a resgatar essa história das mulheres de sua família!!
 
 ### DESCRIÇÃO DO PROJETO
 
